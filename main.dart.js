@@ -63165,23 +63165,22 @@ ao(){return new A.Kz(B.m)}}
 A.Kz.prototype={
 aP(){this.bm()},
 Y(a){var s,r,q,p,o,n=null,m=t.l,l=a.a9(m).f,k=A.adB(B.vN,new A.lu("assets/images/onepiece2.jpg",n,n)),j=A.ani(2,2)
-l=A.hw(n,A.alD(A.hw(n,n,n,new A.eh(A.ai(0,255,255,255),n,n,n,n,n,B.av),n,n,n,n),j),n,new A.eh(n,k,n,n,n,n,B.av),2000,n,n,l.a.a)
-k=a.a9(m).f
+l=A.hw(n,A.alD(A.hw(n,n,n,new A.eh(A.ai(0,255,255,255),n,n,n,n,n,B.av),n,n,n,n),j),n,new A.eh(n,k,n,n,n,n,B.av),1000,n,n,l.a.a)
 m=a.a9(m).f
-j=t.af
-m=A.pK(B.c2,A.a([l,A.hw(n,n,A.ai(122,0,0,0),n,k.a.b,n,n,m.a.a)],j),B.bZ)
-k=A.ai(114,0,0,0)
-l=A.rA(10)
-l=A.aa2(n,A.hw(n,A.pV("You're invited to",A.tR(B.aT,n,n)),n,new A.eh(k,n,n,l,n,n,B.av),n,n,new A.bj(10,10,10,10),n),B.b4,!1,n,n,n,n,n,n,n,n,n,n,new A.a5v(),n,n,n,n,n,n)
-k=A.kE(n,20,n)
+k=t.af
+m=A.pK(B.c2,A.a([l,A.hw(n,n,A.ai(122,0,0,0),n,1000,n,n,m.a.a)],k),B.bZ)
+l=A.ai(114,0,0,0)
+j=A.rA(10)
+j=A.aa2(n,A.hw(n,A.pV("You're invited to",A.tR(B.aT,n,n)),n,new A.eh(l,n,n,j,n,n,B.av),n,n,new A.bj(10,10,10,10),n),B.b4,!1,n,n,n,n,n,n,n,n,n,n,new A.a5v(),n,n,n,n,n,n)
+l=A.kE(n,20,n)
 s=A.pV("Graduation Party",A.tR(B.aT,40,B.cf))
-r=A.pK(B.ej,A.a([new A.nG(B.ej,n,n,A.hw(n,n,n,new A.eh(A.ai(98,167,152,152),n,n,n,n,n,B.vO),350,n,n,350),n),A.hw(n,n,n,new A.eh(n,A.adB(n,new A.lu("assets/images/hanif2.png",n,n)),n,n,n,n,B.av),450,n,n,450)],j),B.bZ)
+r=A.pK(B.ej,A.a([new A.nG(B.ej,n,n,A.hw(n,n,n,new A.eh(A.ai(98,167,152,152),n,n,n,n,n,B.vO),350,n,n,350),n),A.hw(n,n,n,new A.eh(n,A.adB(n,new A.lu("assets/images/hanif2.png",n,n)),n,n,n,n,B.av),450,n,n,450)],k),B.bZ)
 q=A.kE(n,20,n)
 p=A.ai(114,0,0,0)
 o=A.rA(10)
-j=A.a([A.pK(B.c2,A.a([m,A.hw(B.a8,A.ads(A.a([l,k,s,r,q,A.hw(n,A.ads(A.a([A.pV("In Honor Of",A.tR(B.aT,15,B.cf)),A.kE(n,15,n),A.pV("Hanif Aulia Sabri,S.Tr.Kom",A.ahC(n,n,B.aT,n,n,n,n,"LondrinaSketch",n,30,n,B.cf,A.aX([B.mk,new A.tP("4672e7d63f5f2874de074ad7901cbc60626b3eeb54f8bed1152cbb6d47026617",222572)],t.gm,t.Ks),n,n,n,n,n,n,n,n)),A.hw(n,n,B.aT,n,2,new A.bj(30,0,30,0),n,1/0),A.kE(n,10,n),A.pV("Saturday, 17 September 2022",A.tR(B.aT,20,n)),A.kE(n,5,n),A.pV("Auditorium Universitas Andalas",A.tR(B.aT,20,n)),A.kE(n,5,n),A.pV("Universitas Andalas",A.tR(B.aT,15,n))],j)),n,new A.eh(p,n,n,o,n,n,B.av),n,n,new A.bj(10,10,10,10),n)],j)),n,n,n,n,new A.bj(20,20,20,20),n),A.a9C(new A.uB(new A.Al("assets/lottie/daun.json",n,n,n),n),n,n)],j),B.bZ)],j)
+k=A.a([A.pK(B.c2,A.a([m,A.hw(B.a8,A.ads(A.a([j,l,s,r,q,A.hw(n,A.ads(A.a([A.pV("In Honor Of",A.tR(B.aT,15,B.cf)),A.kE(n,15,n),A.pV("Hanif Aulia Sabri,S.Tr.Kom",A.ahC(n,n,B.aT,n,n,n,n,"LondrinaSketch",n,30,n,B.cf,A.aX([B.mk,new A.tP("4672e7d63f5f2874de074ad7901cbc60626b3eeb54f8bed1152cbb6d47026617",222572)],t.gm,t.Ks),n,n,n,n,n,n,n,n)),A.hw(n,n,B.aT,n,2,new A.bj(30,0,30,0),n,1/0),A.kE(n,10,n),A.pV("Saturday, 17 September 2022",A.tR(B.aT,20,n)),A.kE(n,5,n),A.pV("Auditorium Universitas Andalas",A.tR(B.aT,20,n)),A.kE(n,5,n),A.pV("Universitas Andalas",A.tR(B.aT,15,n))],k)),n,new A.eh(p,n,n,o,n,n,B.av),n,n,new A.bj(10,10,10,10),n)],k)),n,n,n,n,new A.bj(20,20,20,20),n),A.a9C(new A.uB(new A.Al("assets/lottie/daun.json",n,n,n),n),n,n)],k),B.bZ)],k)
 o=A.aX([null,0],t.LO,t.S)
-return new A.w0(new A.DU(new A.a1h(!0,!0,!0,j,o),n,B.aZ,!1,n,n,B.vv,!1,n,1,B.b4,B.Fn,n,B.ar,n),n)}}
+return new A.w0(new A.DU(new A.a1h(!0,!0,!0,k,o),n,B.aZ,!1,n,n,B.vv,!1,n,1,B.b4,B.Fn,n,B.ar,n),n)}}
 A.a5v.prototype={
 $0(){var s=0,r=A.Z(t.H)
 var $async$$0=A.a_(function(a,b){if(a===1)return A.W(b,r)
